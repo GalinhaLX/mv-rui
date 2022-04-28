@@ -1,3 +1,7 @@
 {
-	"title": "title\n"
+	"title": "title\n",
+	"in": "Welcome logged member",
+	"profile_image": "https://tympanus.net/Development/OffCanvasMenuEffects/img/related/sidebartransitions.png",
+	"out": "You're logged out",
+	"profile_image2": "https://tympanus.net/Development/OffCanvasMenuEffects/img/related/PerspectiveNavigation.png"
 }
